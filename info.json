@@ -1,0 +1,13 @@
+{
+  "name": "space-platform-for-ground",
+  "title": "Space platform, for ground",
+  "description": "Adapted the space platform tile to work (and look good) on normal ground.",
+  "author": "snouz",
+  "homepage": "https://github.com/snouz/space-platform-for-ground",
+  "version": "1.0.1",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ]
+}
