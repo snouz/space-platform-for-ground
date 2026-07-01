@@ -48,7 +48,7 @@ data:extend({
     name = "space-platform-for-ground",
     energy_required = 10,
     enabled = false,
-    category = "crafting",
+    categories = {"crafting"},
     ingredients =
     {
       {type = "item", name = "steel-plate", amount = 20},
